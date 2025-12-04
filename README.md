@@ -54,6 +54,7 @@ retail-product-image-recognition/
 ├── requirements.txt
 ├── predictions_test.csv
 ├── test_api_request.py
+├── .gitignore
 └── README.md
 ```
 
