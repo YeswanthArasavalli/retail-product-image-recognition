@@ -41,6 +41,7 @@ Upload a product image to view:
 retail-product-image-recognition/
 ├── src/
 │   ├── prepare_dataset.py
+│   ├── app.py
 │   ├── train_retail_classifier_torch.py
 │   ├── evaluate_test_torch.py
 │   ├── inference_api.py
