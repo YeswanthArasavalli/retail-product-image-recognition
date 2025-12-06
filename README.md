@@ -10,6 +10,8 @@ It includes:
 - Interactive Streamlit app to upload product images and view predictions
 - (Optional) Flask inference API for deployment use cases
 
+**Live Demo:** [Try it here](https://retail-image-recognition.streamlit.app/)
+
 ---
 
 ## 🚀 Demo
