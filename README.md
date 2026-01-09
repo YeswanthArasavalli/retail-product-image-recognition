@@ -118,4 +118,4 @@ All training results and code belong to the author; please respect dataset and l
 **Yeswanth Arasavalli** — Data Scientist (Computer Vision · Deep Learning)
 - Portfolio: https://yeswantharasavalli.me
 - LinkedIn: https://linkedin.com/in/yeswantharasavalli
-- Email: your.email@example.com
+- Email: yeswantharasavalli@gmail.com
